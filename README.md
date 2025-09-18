@@ -1,1 +1,1 @@
-Use the script to analyze text
+Use the script to analyze emotional text
